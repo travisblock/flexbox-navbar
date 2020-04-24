@@ -2,7 +2,7 @@
 
 Responsive navbar with flexbox (html,css,js)
 
-Demo : https://ajid2.github.io/flexbox-navbar
+Demo : [https://ajid2.github.io/flexbox-navbar/index.html](https://ajid2.github.io/flexbox-navbar/index.html)
 
 
 ## Preview Desktop :
