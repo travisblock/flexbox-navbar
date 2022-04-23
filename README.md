@@ -16,11 +16,6 @@ Demo : [https://ajid2.github.io/flexbox-navbar/index.html](https://ajid2.github.
 - CSS
 - JS
 
-## Author:
-
-- Fb : [AJID STARK](https://fb.me/ajidstark)
-- Twitter : [@ajidstark](https://twitter.com/ajidstark)
-- LinkedIn : [Yusuf Al Majid](https://www.linkedin.com/in/yusuf-al-majid/)
 
 ## Thanks to:
 
